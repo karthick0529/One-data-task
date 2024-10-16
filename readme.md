@@ -14,9 +14,9 @@
 
 # .env file for Backend:
 
-    MONGODB_URI = mongodb://localhost:27017/pinterest_test
+    MONGODB_URI = <your_mongodb_connection_string>
     PORT = <your_port>
-    JWT_SECRET = SECRET_KEY
+    JWT_SECRET = <your_jwt_secret>
 
 Vimeo Link for your reference:
 
