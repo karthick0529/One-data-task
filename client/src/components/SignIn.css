@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(135deg, #ff6f61, #6a82fb);
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textField {
+  margin-bottom: 70px;
+  border-radius: 4px;
+}
+
+.paper {
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+h5 {
+  margin-bottom: 20px;
+}
